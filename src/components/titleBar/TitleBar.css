@@ -1,0 +1,15 @@
+.Title-container {
+  position: absolute;
+  top: 0;
+  height: 50px;
+  width: 100%;
+  background-color: green;
+}
+
+.Title {
+  position: absolute;
+  color: white;
+  margin-top: -15px;
+  top: 50%;
+  margin-left: 15px;
+}

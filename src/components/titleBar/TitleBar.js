@@ -7,7 +7,7 @@ class TitleBar extends Component {
     return (
       <div className="Title-container">
         <img className="Title-icon" src="../images/fcc-icon.png"/>
-        <h2 className="Title">FreeCodeCamp</h2>
+        <h2 className="Title"><a className="Title-Link" href="https://freecodecamp.com">freeCodeCamp</a></h2>
       </div>
     );
   }

@@ -17,3 +17,16 @@
   top: 50%;
   margin-left: 65px;
 }
+
+.Title-Link {
+  color: white;
+  text-decoration: none;
+}
+
+.Title-Link:hover {
+  text-decoration: none;
+}
+
+.Title-Link:visited {
+  text-decoration: none;
+}

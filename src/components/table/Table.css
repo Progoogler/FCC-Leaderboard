@@ -9,16 +9,12 @@
   margin-left: auto;
   margin-right: auto;
   text-align: center;
-  background-color: green;
+  background-color: #006400;
   height: 50px;
-    text-align: center;
 }
 
 .Table-Title-Text {
-  position: absolute;
-  text-align: center;
-  top: 50%;
-  margin-top: -20px;
+  padding: 10px;
   color: white;
   font-size: 1.8em;
 }
@@ -33,7 +29,7 @@
 .Header {
   margin-top: 15px;
   height: 40px;
-  color: green;
+  color: #006400;
 }
 
 .Vertical-Align {
